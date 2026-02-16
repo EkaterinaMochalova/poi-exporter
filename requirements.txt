@@ -23,3 +23,8 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==1.26.20
 uvicorn==0.39.0
+fastapi>=0.100
+uvicorn[standard]>=0.23
+requests>=2.31
+openpyxl>=3.1
+pydantic>=2.0
